@@ -1,6 +1,4 @@
 # StoneBot
-Stone Bot is a program that allows you to click by scanning images you specify on the screen using Python.
-# StoneBot
 
 StoneBot, ekran görüntüsünde belirli görselleri arayarak otomatik tıklama işlemleri yapan bir Python uygulamasıdır. Görsel arama ve tıklama işlemleri için PyAutoGUI, OpenCV ve Pillow gibi kütüphaneleri kullanır. Uygulama, görsel arama ve hata tespiti için iki farklı arayüz sunar.
 
